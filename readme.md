@@ -16,7 +16,7 @@ Esta API foi criada com o objetivo de:
 
 ## 🎓 Créditos
 
-Este projeto foi desenvolvido com base nos aprendizados adquiridos em um curso/canal de ensino de desenvolvimento web, aplicado e adaptado para fins de prática e evolução profissional.
+Este projeto foi desenvolvido com base nos aprendizados adquiridos em um curso/canal de ensino de desenvolvimento web, aplicado e adaptado para fins de prática e evolução profissional. Link: https://www.youtube.com/watch?v=6Y1cMlTPEaE
 
 ---
 
